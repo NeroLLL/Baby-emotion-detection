@@ -7,11 +7,11 @@ from email.mime.image import MIMEImage
 #host address
 mail_host = 'smtp.gmail.com'  
 #user name
-mail_user = 'nerolwow'  
+mail_user = '***'  #user name
 #password 
-mail_pass = 'jiazk9808'   
-sender = 'nerolwow@gmail.com'  
-receivers = ['zlen5056@uni.sydney.edu.au']  
+mail_pass = '***'  #email password
+sender = '***'   #maibox(sender)
+receivers = ['***']  #mailbox(receivers)
 
 #setting of mail
 #text of mail
